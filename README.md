@@ -21,7 +21,7 @@ If you are using conda, you can install from the `conda-forge` channel:
 
 wordcloud depends on `numpy` and `pillow`.
 
-To save the wordcloud into a file, `matplotlib` can also be installed. See [examples](#examples) below.
+To save the wordcloud into a file, `matplotlib` can also be installed.
 
 If there are no wheels available for your version of python, installing the
 package requires having a C compiler set up. Before installing a compiler, report
